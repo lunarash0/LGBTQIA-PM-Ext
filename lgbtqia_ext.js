@@ -1,3 +1,11 @@
+/**!
+ * LGBTQIA+ Extension
+ * author Ash https://discord.com/users/1274550888706474169
+ * version 1.0
+ * copyright MIT License
+ * DO NOT REMOVE THIS COMMENT
+ */
+
 (function (Scratch) {
   'use strict';
 
